@@ -1,2 +1,1 @@
-# scriptable
-widgt
+### 仅用于储存图片
